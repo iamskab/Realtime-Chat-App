@@ -1,1 +1,1 @@
-# Realtime-Chat-App
+# Simple CNN
